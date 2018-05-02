@@ -71,6 +71,7 @@ class TicTacToe
           return current_player
         end
     end
+    false
   end
   
   def full?
