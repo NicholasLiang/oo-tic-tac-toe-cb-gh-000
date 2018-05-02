@@ -48,7 +48,7 @@ class TicTacToe
   
   def turn
     puts "Enter 1-9:"
-    
+    next_move = gets.strup
     
   end
 end
