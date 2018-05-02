@@ -75,7 +75,7 @@ class TicTacToe
   end
   
   def full?
-    @board.all? {|grid| grid=="X" || grid=="O"}
+    @board.all? {|grid| grid == "X" || grid == "O"}
   end
   
   def draw?
@@ -88,5 +88,5 @@ class TicTacToe
   
   def winner
     if won? ? won? : nil
-    end
+  end
 end
