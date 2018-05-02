@@ -30,7 +30,7 @@ class TicTacToe
     @board[index] = value
   end
   
-  def position_taken?
+  def position_taken?(index)
     @board
   end
   
