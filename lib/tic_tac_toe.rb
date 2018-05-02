@@ -39,7 +39,7 @@ class TicTacToe
   end
   
   def turn_count
-    @board.count{|grid|}
+    @board.count{|grid| grid=="X" || grid =="O"}
   end
   
 end
