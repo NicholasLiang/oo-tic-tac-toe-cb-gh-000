@@ -4,5 +4,6 @@ class TicTacToe
   end
   
   WIN_COMBINATIONS = [
-    ]
+    
+  ]
 end
