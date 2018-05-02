@@ -63,7 +63,7 @@ class TicTacToe
            position_taken?(winArr[1]) &&
             position_taken?(winArr[2])
             
-        position1 = 
+        position1 = @board[winArr[0]]
         
         
     end
