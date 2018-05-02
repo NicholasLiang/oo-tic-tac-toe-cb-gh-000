@@ -61,6 +61,8 @@ class TicTacToe
     until over?
       turn
     end
+    
+    if 
   end
   
   def full?
