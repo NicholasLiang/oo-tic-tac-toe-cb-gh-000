@@ -51,6 +51,7 @@ class TicTacToe
     next_move = gets.strip
     index = input_to_index(next_move)
     if valid_move?(index)
+      
     
   end
 end
