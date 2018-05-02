@@ -62,7 +62,7 @@ class TicTacToe
       turn
     end
     
-    if 
+    if won?
   end
   
   def full?
