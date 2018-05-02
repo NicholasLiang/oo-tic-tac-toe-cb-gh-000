@@ -92,7 +92,6 @@ class TicTacToe
   end
   
   def play
-    
-    
+    until over?
   end
 end
