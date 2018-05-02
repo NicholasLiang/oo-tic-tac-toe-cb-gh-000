@@ -26,6 +26,6 @@ class TicTacToe
     next_move.to_i - 1
   end
   
-  def move()
+  def move(index, )
   
 end
