@@ -47,6 +47,6 @@ class TicTacToe
   end
   
   def turn
-    
+    puts "Enter 1-9"
   end
 end
