@@ -64,9 +64,9 @@ class TicTacToe
       value2 = @board[winArr[1]
       value3 = @board[winArr[2]
       
-      if position_taken?(value1]) &&
-        position_taken?(value1]) &&
-        position_taken?(value1]) &&
+      if position_taken?(value1) &&
+        position_taken?(value2) &&
+        position_taken?(value3) &&
         
         
     end
