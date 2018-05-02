@@ -35,7 +35,9 @@ class TicTacToe
   end
   
   def valid_move?(index)
-    index >= 0 && index < 9 && !position_taken?(@board[index])
+    index >= 0 && index < 9 && !position_taken?(index)
   end
+  
+  
   
 end
