@@ -58,7 +58,7 @@ class TicTacToe
   end
   
   def won?
-    until 
+    until over?
   end
   
   def full?
