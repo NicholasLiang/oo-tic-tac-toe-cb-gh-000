@@ -61,8 +61,8 @@ class TicTacToe
     WIN_COMBINATIONS.each do |winArr|
       
       value1 = @board[winArr[0]
-      value1 = @board[winArr[1]
-      value1 = @board[winArr[2]
+      value2 = @board[winArr[1]
+      value3 = @board[winArr[2]
       
       if position_taken?(@board[winArr[0]]) &&
         position_taken?(@board[winArr[1]]) &&
