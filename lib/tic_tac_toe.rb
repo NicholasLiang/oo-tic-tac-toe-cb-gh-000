@@ -87,7 +87,7 @@ class TicTacToe
   end
   
   def winner
-    if won?
+    won?
       
   end
 end
