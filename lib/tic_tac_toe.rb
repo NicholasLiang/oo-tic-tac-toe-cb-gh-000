@@ -62,6 +62,6 @@ class TicTacToe
   end
   
   def full?
-    @board.all? {|grid|}
+    @board.all? {|grid| grid=="X" || grid=="O"}
   end
 end
