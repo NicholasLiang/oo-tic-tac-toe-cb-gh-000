@@ -58,11 +58,7 @@ class TicTacToe
   end
   
   def won?
-    until over?
-      turn
-    end
     
-    if won?
       
   end
   
