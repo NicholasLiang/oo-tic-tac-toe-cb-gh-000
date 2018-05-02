@@ -96,6 +96,6 @@ class TicTacToe
       turn
     end
     
-    
+    if 
   end
 end
