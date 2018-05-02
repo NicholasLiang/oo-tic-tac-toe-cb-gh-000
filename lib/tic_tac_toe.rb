@@ -96,6 +96,7 @@ class TicTacToe
       turn
     end
     
-    if 
+    if won?
+      puts ""
   end
 end
