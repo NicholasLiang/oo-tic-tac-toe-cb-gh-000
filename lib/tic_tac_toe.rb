@@ -64,8 +64,8 @@ class TicTacToe
             position_taken?(winArr[2])
             
         value1 = @board[winArr[0]]
-        avlue2 = @board[winArr[1]]
-        position3 = @board[winArr[2]]
+        value2 = @board[winArr[1]]
+        value3 = @board[winArr[2]]
         
         if position1 == position2 && position1 == position3
           return position1
