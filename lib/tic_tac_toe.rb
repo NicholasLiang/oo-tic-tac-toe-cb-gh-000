@@ -69,7 +69,7 @@ class TicTacToe
         
         if position1 == position2 && position1 == position3
           return current_player
-        
+        end
     end
   end
   
