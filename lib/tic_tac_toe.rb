@@ -71,6 +71,7 @@ class TicTacToe
           return position1
         end
     end
+  end
     false
   end
   
