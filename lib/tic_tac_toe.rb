@@ -97,6 +97,6 @@ class TicTacToe
     end
     
     if won?
-      puts ""
+      puts "Congratulations #{winner}!"
   end
 end
