@@ -65,5 +65,7 @@ class TicTacToe
     @board.all? {|grid| grid=="X" || grid=="O"}
   end
   
-  def 
+  def draw?
+    
+  end
 end
