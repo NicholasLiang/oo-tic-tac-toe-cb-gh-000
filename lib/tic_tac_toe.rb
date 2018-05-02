@@ -66,6 +66,6 @@ class TicTacToe
   end
   
   def draw?
-    
+    full? && 
   end
 end
