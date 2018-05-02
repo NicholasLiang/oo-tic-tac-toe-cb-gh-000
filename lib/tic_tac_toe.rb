@@ -67,6 +67,7 @@ class TicTacToe
         position2 = @board[winArr[1]]
         position3 = @board[winArr[2]]
         
+        if postion1 == position2 && 
         
     end
   end
