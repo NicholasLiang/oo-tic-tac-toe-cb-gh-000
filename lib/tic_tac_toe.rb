@@ -31,7 +31,7 @@ class TicTacToe
   end
   
   def position_taken?
-    tmpboard = @board
+    @board
   end
   
 end
