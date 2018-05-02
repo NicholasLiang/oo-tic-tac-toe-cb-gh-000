@@ -60,6 +60,7 @@ class TicTacToe
   def won?
     until over?
   end
+  end
   
   def full?
     @board.all? {|grid| grid=="X" || grid=="O"}
