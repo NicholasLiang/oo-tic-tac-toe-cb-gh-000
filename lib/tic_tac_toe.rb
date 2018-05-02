@@ -70,8 +70,8 @@ class TicTacToe
         if value1 == value2 && value1 == value3
           return position1
         end
+       end
     end
-  end
     false
   end
   
