@@ -59,7 +59,7 @@ class TicTacToe
   
   def won?
     WIN_COMBINATIONS.each do |winArr|
-      if position 
+      if position_taken?
     end
   end
   
