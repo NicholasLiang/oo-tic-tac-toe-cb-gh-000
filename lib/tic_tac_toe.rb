@@ -88,6 +88,6 @@ class TicTacToe
   
   def winner
     if won?
-      puts "Congratulations #{winder}!"
+      
   end
 end
